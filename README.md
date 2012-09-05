@@ -8,11 +8,12 @@ A.K.A kudanai's wordlist for auditing the average maldivian passw0rd in style. B
 
  * Island Names
  * Male/Female Names extracted from leaked Elections data (old)
- * ID Card numbers (crunch aXXXXXX) 
+ * ID Card numbers (crunch aXXXXXX)
+ * Addresses (postal search for pattern %)
+ * Resorts (postal search for pattern %)
 
 **Planned Additions:**
 
- * Addresses
  * Passport Numbers
  * Company Names
  * Phone Numbers (maybe, if things won't get too big)
