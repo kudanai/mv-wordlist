@@ -3,7 +3,7 @@ OUTPUT_PATH   := 'wordlist.lst'
 GREP_EXPR     := '(^\#|^$$)'
 
 all:
-	egrep -Ehv $(GREP_EXPR) $(COMPONENT_DIR)/* | sort | uniq > $(OUTPUT_PATH)
+	zgrep -Ev --no-filename $(GREP_EXPR) $(COMPONENT_DIR)/* | sort | uniq > $(OUTPUT_PATH)
 	@wc -l $(OUTPUT_PATH)
 
 clean:
