@@ -12,10 +12,12 @@ A.K.A kudanai's wordlist for auditing the average maldivian passw0rd in style. B
 
 **Planned Additions:**
 
+ * Addresses
  * Passport Numbers
  * Company Names
- * Phone Numbers
+ * Phone Numbers (maybe, if things won't get too big)
  * common slang and foul language (because you know we love it)
+ * common Nicknames (zigalhey! ey!!!)
  
 ## Disclaimer
 
