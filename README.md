@@ -11,15 +11,20 @@ A.K.A kudanai's wordlist for auditing the average maldivian passw0rd in style. B
  * ID Card numbers `crunch 7 7 -t a%%%%%%`
  * Addresses (postal search for pattern %)
  * Resorts (postal search for pattern %)
+<<<<<<< HEAD
  * Phone Numbers [mobile] - `(960)?7[36789][0-9]{5}`,`(960)?9[6-9][0-9]{5}`
  * **TOTAL = 2,838,914 entries***
+=======
+ * Phone Numbers [mobile] (`(960)?7[36789][0-9]{5}`,`(960)?9[6-9][0-9]{5}`)
+ * Some general vulgarities
+ * **TOTAL = 2,838,984 entries**
+>>>>>>> basic vulgarities added
 
 **Planned Additions:**
 
  * Passport Numbers
  * Company Names
  * Phone Numbers [landline]
- * common slang and foul language (because you know we love it)
  * common Nicknames (zigalhey! ey!!!)
  
 ## Disclaimer
